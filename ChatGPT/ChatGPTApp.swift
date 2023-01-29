@@ -2,7 +2,7 @@
 //  ChatGPTApp.swift
 //  ChatGPT
 //
-//  Created by Ayman on 26.01.2023.
+//  by swiftui.app on 26.01.2023.
 //
 
 import SwiftUI
